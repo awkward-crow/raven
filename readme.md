@@ -55,8 +55,31 @@ http://www.math.toronto.edu/~drorbn/
 Physical Knots and Particle Topology
 http://anpa.onl/pdf/S36/LKParticleBraidsMathFest15.pdf
 
+### Kirby
+
+https://math.berkeley.edu/~kirby/
+
 ### Marc Lackenby
 
+### Lenny Ng
+
+https://services.math.duke.edu/~ng/
+
+LEGENDRIAN CONTACT HOMOLOGY IN R^3
+JOHN B. ETNYRE AND LENHARD L. NG
+
+https://arxiv.org/pdf/1811.10966.pdf
+
+
+## Blogs
+
+### Geometry and the Imagination
+
+https://lamington.wordpress.com/
+
+### Low Dimensional Topology
+
+https://ldtopology.wordpress.com/
 
 ## Papers/Books
 
@@ -82,6 +105,11 @@ See also https://en.wikipedia.org/wiki/Computational_topology
 
 ### An Introduction to Computational Group Theory
 Ákos Seress
+https://www.ams.org/notices/199706/seress.pdf
+
+### CURRENT CHALLENGES IN DEVELOPING OPEN SOURCE COMPUTER ALGEBRA SYSTEMS 
+
+https://arxiv.org/pdf/1702.06912.pdf
 
 ## Software
 
