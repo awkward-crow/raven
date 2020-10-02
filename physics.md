@@ -1,5 +1,16 @@
 # physics
 
+## Exotic Smoothness and physics
+
+Exotic Smoothness and physics
+Differential topology and spacetime models
+
+Torsten Asselmeyer-Maluga
+Carl H Brans
+
+https://www.maths.ed.ac.uk/~v1ranick/papers/exoticsmooth.pdf
+[Found this by searching for "exotic minkowski space"]
+
 ## t'Hooft on gauge theories
 
 http://www.scholarpedia.org/article/Gauge_theories
